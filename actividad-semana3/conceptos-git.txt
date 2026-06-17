@@ -1,0 +1,8 @@
+REPOSITORIO: Es el lugar ordenado donde guardas todas las fotos de tu viaje.
+Contiene el proyecto completo, sus archivos y toda su historia
+
+COMMIT: Es la captura exacta que le tomas a tus archivos en un momento específico. Si te equivocas en el código,
+puedes mirar esta foto para ver cómo estaba todo antes.
+
+PUSH:  Es la acción de subir tus fotos locales a internet (GitHub). Así, tu profesor
+o compañeros pueden ver los avances desde sus propias computadoras.

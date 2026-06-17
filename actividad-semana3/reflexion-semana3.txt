@@ -1,0 +1,7 @@
+usar git en un proyecto es tanta como saber informatica, esta herramienta nos
+facilita una parte muy importante que es el control de flujos de trabajo compartido
+los errores humanos al momento de versionar y revertimiento por errores, la cual la hace demasiado importante esta herramienta
+ademas cada regsitro de que son los commit, hacen posible estos revertimientos y el mejor aun 
+crea una docuemntacion para que tus compañero no se pierdan o sepan que se esta cambiando o modificando 
+ 
+
